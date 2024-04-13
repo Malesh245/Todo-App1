@@ -1,0 +1,13 @@
+.container {
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+
+.name {
+  text-align: left;
+  font-weight: 500;
+}
+
+.button {
+  width: 100px;
+}

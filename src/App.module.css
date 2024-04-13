@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(251, 167, 12);
+}
+
+.container {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+
+}

@@ -1,0 +1,14 @@
+.container {
+  font-size: 25px;
+}
+
+.input {
+  width: 100%;
+  background-color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+.button {
+  width: 100px;
+}
